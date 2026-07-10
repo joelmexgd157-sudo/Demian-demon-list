@@ -1,5 +1,5 @@
 async function cargarDemons() {
-    const respuesta = await fetch("js/data/demons.json");
+    const respuesta = await fetch("./js/data/demons.json");
     const demons = await respuesta.json();
 
     const lista = document.getElementById("demon-list");
