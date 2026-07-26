@@ -8,16 +8,19 @@ async function cargarDemons() {
     demons.forEach(demon => {
         lista.innerHTML += `
         <div class="level">
-            <div>
+            <img src="${demon.thumbnail}" alt="${demon.name}" class="thumbnail">
+
+            <div class="info">
                 <div class="rank">#${demon.position}</div>
                 <h2>${demon.name}</h2>
                 <p>Creador: ${demon.creator}</p>
                 <p>Verificador: ${demon.verifier}</p>
                 <p>${demon.difficulty}</p>
+
+                <a href="${demon.video}" target="_blank">
+                    <button>Ver video</button>
+                </a>
             </div>
-            <a href="${demon.video}" target="_blank">
-                <button>Ver video</button>
-            </a>
         </div>
         `;
     });
