@@ -5,7 +5,43 @@
     "creator": "Joelmex",
     "verifier": "Joelmex",
     "difficulty": "Extreme Demon",
-    "video": "https://youtube.com/",
-    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+    "image": "https://via.placeholder.com/300x170?text=Bloodline",
+    "video": "https://youtube.com/"
+  },
+  {
+    "position": 2,
+    "name": "Thinking Space X",
+    "creator": "Joelmex",
+    "verifier": "Joelmex",
+    "difficulty": "Extreme Demon",
+    "image": "https://via.placeholder.com/300x170?text=Thinking+Space+X",
+    "video": "https://youtube.com/"
+  },
+  {
+    "position": 3,
+    "name": "Silent Aetherion",
+    "creator": "Joelmex",
+    "verifier": "Joelmex",
+    "difficulty": "Extreme Demon",
+    "image": "https://via.placeholder.com/300x170?text=Silent+Aetherion",
+    "video": "https://youtube.com/"
+  },
+  {
+    "position": 4,
+    "name": "Polyscapes V2",
+    "creator": "Joelmex",
+    "verifier": "Joelmex",
+    "difficulty": "Extreme Demon",
+    "image": "https://via.placeholder.com/300x170?text=Polyscapes+V2",
+    "video": "https://youtube.com/"
+  },
+  {
+    "position": 5,
+    "name": "Can Let Go Yeah V2",
+    "creator": "Joelmex",
+    "verifier": "Joelmex",
+    "difficulty": "Extreme Demon",
+    "image": "https://via.placeholder.com/300x170?text=Can+Let+Go+Yeah+V2",
+    "video": "https://youtube.com/"
   }
 ]
